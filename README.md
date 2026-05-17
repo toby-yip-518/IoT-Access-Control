@@ -1,7 +1,8 @@
 # IoT Access Control System
 
-University group project (3 members). An Arduino-based campus access 
-control prototype integrating three independent authentication paths: 
+**University group project (3 members) · My role: integration lead.**
+
+An Arduino-based campus access control prototype integrating three independent authentication paths: 
 RFID card scan, keypad password, and SMS-delivered OTP — backed by 
 a cloud-hosted user record database.
 
